@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-atatat_master
-=======
-dd
->>>>>>> branch_2
+WTF?
