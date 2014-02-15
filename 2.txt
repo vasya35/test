@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 atatat_master
+=======
+dd
+>>>>>>> branch_2
