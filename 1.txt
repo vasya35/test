@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master5
+=======
+master4
+string
+>>>>>>> mpo
